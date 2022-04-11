@@ -1,0 +1,22 @@
+body {
+  min-height: 100vh;
+  margin: 0;
+
+  background: #2C2B3D;
+}
+
+h1, a, footer span {
+  font-family: 'JetBrains Mono', monospace;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  width: 1092px;
+}
